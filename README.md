@@ -4,7 +4,7 @@ Uses the TFT_eSPI library to displays concentric squares and circles inscribed a
 
 ## Blog Post
 
-You can take an in depth look at my process making this program in this [blog post](TBD).
+You can take an in depth look at my process making this program in this [blog post](https://chambray-dragon-de5.notion.site/Inscribed-Concentric-Shapes-ICS-110c917d299b8009857dfc2a6bac76ce).
 
 ## Table of Contents
 
