@@ -19,9 +19,9 @@ You can take an in depth look at my process making this program in this [blog po
 - [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
 - [Lilygo TTGO ESP32](https://www.amazon.com/LILYGO-T-Display-Arduino-Development-CH9102F/dp/B099MPFJ9M?th=1)
 - Envelope or equivalent foldable cardboard object
-- Tape
-- Thread strings
-- USB-C
+- Tape or equivalent adhesive material
+- Thread strings or equivalent material
+- USB-C cable
 - [1000 mAh Lithium Rechargeable Battery](https://www.amazon.com/MakerFocus-Rechargable-Protection-Insulated-Development/dp/B07CXNQ3ZR/ref=asc_df_B07CXNQ3ZR/?tag=hyprod-20&linkCode=df0&hvadid=693418895745&hvpos=&hvnetw=g&hvrand=9952653053733686756&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003479&hvtargid=pla-570313739730&psc=1&mcid=17ac86c4b04d38eb95f2cb36df3604d9)
 
 ## How to Build the Project 
