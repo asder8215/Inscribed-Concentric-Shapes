@@ -1,4 +1,4 @@
-# Inscribed-Concentric-Shapes
+# Inscribed Concentric Shapes
 
 Uses the TFT_eSPI library to displays concentric squares and circles inscribed almost perfectly on top of one another with color transitions resembling that of fall leaves.
 
